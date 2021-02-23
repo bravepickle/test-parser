@@ -15,5 +15,6 @@ This is a test assignment for parsing data
         * this data should be easy to use for following processing
     1. It is possible to add and modify this fork code contents to your liking if needed for some reason
 1. Write instructions on how to run your command and notes if needed how to configure it so that it was possible to run it locally
+1. Make GitHub pull request
 1. Provide address to your GitHub repo fork
 1. Wait for feedback :). Good luck!
